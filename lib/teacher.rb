@@ -1,8 +1,6 @@
-#requires 'lib/user.rb'
+
 
 class Teacher < User
-  
-  #include user.rb
   
   def initialize
   end
